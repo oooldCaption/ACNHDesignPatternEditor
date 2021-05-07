@@ -3,6 +3,7 @@ An editor for Animal Crossing: New Horizons design patterns.
 
 This software only works with hacked switchs and in combination with [JKSV](https://github.com/J-D-K/JKSV/releases) to export your device saves, edit them with this tool and reimport them after that.
 
+you can user https://acpatterns.com/browse 
 It's planned however to create an own hombrew app to transfer your savegame directly via USB/Network to the tool and vice versa.
 
 ## Features which are already working:
